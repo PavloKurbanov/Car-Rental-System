@@ -1,3 +1,5 @@
+package ConsoleUI;
+
 import Entities.Car;
 import Service.CarService;
 import Exception.CarAlreadyReservedException;
